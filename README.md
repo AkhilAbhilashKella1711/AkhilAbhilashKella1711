@@ -85,19 +85,6 @@
 | 👁️ **[Smart Attendance System](https://github.com/AkhilAbhilashKella1711/Smart-Attendance-System-using-yolo)** | YOLO facial recognition marking attendance for 60–70 students automatically into Excel |
 | ♟️ **[Chess Game](https://github.com/AkhilAbhilashKella1711/chess_game)** | Two-player concurrent chess built in Python |
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AkhilAbhilashKella1711&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilAbhilashKella1711&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=AkhilAbhilashKella1711&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AkhilAbhilashKella1711&theme=tokyonight&no-frame=true&column=7&margin-w=10" width="100%"/>
-
-</div>
-
 ## 🤝 Let's Connect
 
 I'm always open to conversations about **agentic AI systems, LLM infrastructure, RAG architectures, and backend engineering**.
