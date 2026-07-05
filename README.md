@@ -14,8 +14,8 @@
 
 **Founding Engineer @ Wexa-AI** — building a 0-to-1 agentic AI automation platform from the ground up.
 
-- 🔭 Currently architecting a **real-time data ingestion & knowledge-graph platform**: Kafka → Flink stream processing → Neo4j + vector + MongoDB multi-sink, with exactly-once semantics, ontology mapping, PII masking, and LLM-powered signal extraction
 - 🐍 Python Backend Engineer with **3+ years** shipping production-grade **FastAPI microservices**, REST APIs, and AI automation backends
+- 🔭 Currently working on **real-time data platforms** — event streaming, stream processing, and knowledge graphs at enterprise scale
 - 🤖 Deep in **GenAI / LLM systems**: RAG, Graph RAG, tool calling, agent orchestration, connector execution, prompt engineering, and LLM guardrails
 - 👥 Led an **8-member AI engineering pod** — cut backend turnaround by **30%**, workflow setup effort by **60%**, and execution failures by **30%**
 - 🏆 Won Wexa-AI's internal hackathon with **Pulse**, an AI-powered autonomous Product Manager (launched on Product Hunt)
@@ -55,7 +55,6 @@
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
@@ -65,9 +64,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
-![Vault](https://img.shields.io/badge/HashiCorp%20Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
 ![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge)
 
 **Frontend**
@@ -81,7 +77,6 @@
 
 | Project | Description |
 |---|---|
-| 🌐 **Real-Time Knowledge-Graph Ingestion Platform** | Kafka → Flink 5-stage streaming topology (normalize, signal/noise classify, MinHash dedup, SLM extraction, embed + ontology map) → bonded Neo4j + vector + Mongo sink with exactly-once guarantees, OAuth/SASL producer auth, SHACL validation, and PII masking |
 | 🧠 **Agentic AI Platform** (Wexa-AI) | Founding engineer for a 0-to-1 enterprise AI automation platform — architecture, FastAPI microservices, scalability |
 | 🔌 **Intent-Based Connector Framework** | Maps user requests to tool actions and dynamically executes enterprise connector operations |
 | ⚡ **AI Coworker Generator** | Prompt-driven system turning minimal input into configured AI coworkers — **60% less setup effort** |
