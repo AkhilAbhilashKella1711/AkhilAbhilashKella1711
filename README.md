@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-**Founding Engineer @ Wexa-AI** — building a 0-to-1 agentic AI automation platform from the ground up.
+**Founding Engineer** — building a 0-to-1 agentic AI automation platform from the ground up.
 
 - 🐍 Python Backend Engineer with **3+ years** shipping production-grade **FastAPI microservices**, REST APIs, and AI automation backends
 - 🔭 Currently working on **real-time data platforms** — event streaming, stream processing, and knowledge graphs at enterprise scale
