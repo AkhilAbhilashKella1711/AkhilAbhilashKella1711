@@ -1,98 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Kella%20Akhil%20Abhilash&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Backend%20Engineer%20%7C%20GenAI%20%2F%20LLM%20Systems%20%7C%20Agentic%20AI&descSize=18&descAlignY=55" width="100%"/>
-
-<a href="https://www.linkedin.com/in/kella-akhil-abhilash-2a50561b4"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:akhilkella17@gmail.com"><img src="https://img.shields.io/badge/Email-akhilkella17%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/AkhilAbhilashKella1711"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<img src="https://komarev.com/ghpvc/?username=AkhilAbhilashKella1711&style=for-the-badge&color=2C5364" alt="Profile views"/>
+<img src="./matrix-profile.svg" width="100%" alt="Kella Akhil Abhilash — Founding Engineer, GenAI &amp; Agentic AI systems"/>
 
 </div>
 
-## 🚀 About Me
+```
+akhil@matrix:~$ whoami --verbose
 
-**Founding Engineer** — building a 0-to-1 agentic AI automation platform from the ground up.
+  NAME       Kella Akhil Abhilash
+  ROLE       Founding Engineer — 0→1 agentic AI automation platform
+  FOCUS      Python backend · FastAPI microservices · GenAI / LLM systems
+  EXP        3+ years shipping production AI backends
+  EDU        B.Tech CSE (AI/ML), GMR Institute of Technology · 2019–2023
+  TZ         IST (UTC+05:30)
 
-- 🐍 Python Backend Engineer with **3+ years** shipping production-grade **FastAPI microservices**, REST APIs, and AI automation backends
-- 🔭 Currently working on **real-time data platforms** — event streaming, stream processing, and knowledge graphs at enterprise scale
-- 🤖 Deep in **GenAI / LLM systems**: RAG, Graph RAG, tool calling, agent orchestration, connector execution, prompt engineering, and LLM guardrails
-- 👥 Led an **8-member AI engineering pod** — cut backend turnaround by **30%**, workflow setup effort by **60%**, and execution failures by **30%**
-- 🏆 Won Wexa-AI's internal hackathon with **Pulse**, an AI-powered autonomous Product Manager (launched on Product Hunt)
-- 📄 **IEEE published**: Facial landmark-based cursor control & speech-to-text system for paralyzed individuals
-- 🥇 **Smart India Hackathon 2022 finalist** at IIT Kanpur — intelligent transportation system for road safety
-- 🎓 B.Tech CSE (AI/ML Career Path), GMR Institute of Technology · 2019–2023
+akhil@matrix:~$ cat signal.log
 
-## 🛠️ Tech Stack
+  [OK]  Real-time data platforms — event streaming, stream processing,
+        knowledge graphs at enterprise scale
+  [OK]  RAG, Graph RAG, tool calling, agent orchestration, connector
+        execution, prompt engineering, LLM guardrails
+  [OK]  Led an 8-member AI engineering pod
+          backend turnaround   -30%
+          workflow setup cost  -60%
+          execution failures   -30%
+  [OK]  Won Wexa-AI internal hackathon with "Pulse", an autonomous
+        AI Product Manager — launched on Product Hunt
+  [OK]  IEEE published — facial-landmark cursor control &
+        speech-to-text for paralyzed individuals
+  [OK]  Smart India Hackathon 2022 finalist @ IIT Kanpur
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Backend & APIs**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![REST](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-2C5364?style=for-the-badge)
-
-**AI / LLM**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6E48AA?style=for-the-badge)
-![RAG](https://img.shields.io/badge/Vector%20%2B%20Graph%20RAG-FF6F00?style=for-the-badge)
-![Agents](https://img.shields.io/badge/Agent%20Orchestration-4B0082?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Mistral](https://img.shields.io/badge/Mistral-FA520F?style=for-the-badge&logo=mistralai&logoColor=white)
-
-**Data, Streaming & Cloud**
-
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-
-## 💼 What I've Built
-
-| Project | Description |
-|---|---|
-| 🧠 **Agentic AI Platform** (Wexa-AI) | Founding engineer for a 0-to-1 enterprise AI automation platform — architecture, FastAPI microservices, scalability |
-| 🔌 **Intent-Based Connector Framework** | Maps user requests to tool actions and dynamically executes enterprise connector operations |
-| ⚡ **AI Coworker Generator** | Prompt-driven system turning minimal input into configured AI coworkers — **60% less setup effort** |
-| 📊 **Pulse — Autonomous AI PM** | Hackathon winner, launched on Product Hunt — conversational Jira ops, blocker escalation, delivery visibility |
-| 🖱️ **[Cursor Control for Paralyzed People](https://github.com/AkhilAbhilashKella1711/cursor-control-paralyzed-people)** | IEEE-published eye-gaze & facial-landmark HCI system with speech-to-text (OpenCV, deep learning) |
-| 👁️ **[Smart Attendance System](https://github.com/AkhilAbhilashKella1711/Smart-Attendance-System-using-yolo)** | YOLO facial recognition marking attendance for 60–70 students automatically into Excel |
-| ♟️ **[Chess Game](https://github.com/AkhilAbhilashKella1711/chess_game)** | Two-player concurrent chess built in Python |
-
-## 🤝 Let's Connect
-
-I'm always open to conversations about **agentic AI systems, LLM infrastructure, RAG architectures, and backend engineering**.
+akhil@matrix:~$ _
+```
 
 <div align="center">
 
-📫 **akhilkella17@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/kella-akhil-abhilash-2a50561b4) · 🕐 IST (UTC+5:30)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer" width="100%"/>
+`─────────────  T H E   S T A C K   I   K N O W  ─────────────`
 
 </div>
+
+**`LANGUAGES`**
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=python&logoColor=00FF41) ![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=cplusplus&logoColor=00FF41) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=javascript&logoColor=00FF41) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=typescript&logoColor=00FF41) ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&labelColor=000000&color=0B4D1A)
+
+**`BACKEND / APIS`**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=fastapi&logoColor=00FF41) ![Pydantic](https://img.shields.io/badge/Pydantic-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=pydantic&logoColor=00FF41) ![REST APIs](https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&labelColor=000000&color=0B4D1A) ![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&labelColor=000000&color=0B4D1A) ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=docker&logoColor=00FF41) ![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=kubernetes&logoColor=00FF41)
+
+**`AI / LLM`**
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=langchain&logoColor=00FF41) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&labelColor=000000&color=0B4D1A) ![Vector + Graph RAG](https://img.shields.io/badge/Vector%20%2B%20Graph%20RAG-000000?style=for-the-badge&labelColor=000000&color=0B4D1A) ![Agent Orchestration](https://img.shields.io/badge/Agent%20Orchestration-000000?style=for-the-badge&labelColor=000000&color=0B4D1A) ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=openai&logoColor=00FF41) ![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=anthropic&logoColor=00FF41) ![Gemini](https://img.shields.io/badge/Gemini-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=googlegemini&logoColor=00FF41) ![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=amazonwebservices&logoColor=00FF41) ![Mistral](https://img.shields.io/badge/Mistral-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=mistralai&logoColor=00FF41) ![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&labelColor=000000&color=0B4D1A)
+
+**`DATA / STREAMING / CLOUD`**
+
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=apachekafka&logoColor=00FF41) ![Flink](https://img.shields.io/badge/Flink-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=apacheflink&logoColor=00FF41) ![Neo4j](https://img.shields.io/badge/Neo4j-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=neo4j&logoColor=00FF41) ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=redis&logoColor=00FF41) ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=mongodb&logoColor=00FF41) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=elasticsearch&logoColor=00FF41) ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=amazonwebservices&logoColor=00FF41) ![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&labelColor=000000&color=0B4D1A) ![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=grafana&logoColor=00FF41)
+
+**`FRONTEND`**
+
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=react&logoColor=00FF41) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=tailwindcss&logoColor=00FF41) ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=html5&logoColor=00FF41) ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=css&logoColor=00FF41)
+
+<div align="center">
+
+`─────────────  W H A T   I ' V E   B U I L T  ─────────────`
+
+</div>
+
+| ░ | PROJECT | WHAT IT DOES |
+|---|---|---|
+| `01` | **Agentic AI Platform** — Wexa-AI | Founding engineer on a 0→1 enterprise AI automation platform: architecture, FastAPI microservices, scalability |
+| `02` | **Intent-Based Connector Framework** | Maps user requests to tool actions, dynamically executes enterprise connector operations |
+| `03` | **AI Coworker Generator** | Prompt-driven system turning minimal input into configured AI coworkers — **60% less setup effort** |
+| `04` | **Pulse — Autonomous AI PM** | Hackathon winner, on Product Hunt: conversational Jira ops, blocker escalation, delivery visibility |
+| `05` | [**Cursor Control for Paralyzed People**](https://github.com/AkhilAbhilashKella1711/cursor-control-paralyzed-people) | IEEE-published eye-gaze & facial-landmark HCI with speech-to-text (OpenCV, deep learning) |
+| `06` | [**Smart Attendance System**](https://github.com/AkhilAbhilashKella1711/Smart-Attendance-System-using-yolo) | YOLO facial recognition marking 60–70 students into Excel automatically |
+| `07` | [**Chess Game**](https://github.com/AkhilAbhilashKella1711/chess_game) | Two-player concurrent chess in pure Python |
+
+<div align="center">
+
+`─────────────  S Y S T E M   T E L E M E T R Y  ─────────────`
+
+</div>
+
+```
+  ┌─ LANGUAGE DISTRIBUTION ────────────────────────────────────────────────────────┐
+
+  Jupyter Notebook  ████████████████████████────────────────   60.7%  17 repos
+  Python            █████████───────────────────────────────   21.4%   6 repos
+  JavaScript        ████────────────────────────────────────   10.7%   3 repos
+  HTML              █───────────────────────────────────────    3.6%   1 repo 
+  TypeScript        █───────────────────────────────────────    3.6%   1 repo 
+
+  └─ 33 public repos · online since 2020-11-10 ──────────────────────────────────┘
+```
+
+<div align="center">
+
+`─────────────  F I N D   M E   O N  ─────────────`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/kella-akhil-abhilash-2a50561b4) [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=gmail&logoColor=00FF41)](mailto:akhilkella17@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&labelColor=000000&color=0B4D1A&logo=github&logoColor=00FF41)](https://AkhilAbhilashKella1711.github.io)
+
+<img src="https://komarev.com/ghpvc/?username=AkhilAbhilashKella1711&style=for-the-badge&labelColor=000000&color=0B4D1A&label=VISITORS"/>
+
+</div>
+
+```
++------------------------------------------------------+
+|   " There is no spoon. There is only the deploy. "   |
+|                                                      |
+|   Open to talking agentic AI systems, LLM infra,     |
+|   RAG architectures, and backend engineering.        |
+|                                                      |
+|   akhilkella17@gmail.com              B4ll u l4t3r   |
++------------------------------------------------------+
+```
